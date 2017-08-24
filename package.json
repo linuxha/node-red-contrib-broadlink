@@ -98,7 +98,7 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VladimirSFilippov/node-red-contrib-broadlink.git"
+    "url": "git+https://github.com/linuxha/node-red-contrib-broadlink.git"
   },
   "scripts": {},
   "version": "0.1.5"
