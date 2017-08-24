@@ -1,0 +1,105 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "node-red-contrib-broadlink@0.1.5",
+        "scope": null,
+        "escapedName": "node-red-contrib-broadlink",
+        "name": "node-red-contrib-broadlink",
+        "rawSpec": "0.1.5",
+        "spec": "0.1.5",
+        "type": "version"
+      },
+      "/home/njc/.node-red"
+    ]
+  ],
+  "_from": "node-red-contrib-broadlink@0.1.5",
+  "_id": "node-red-contrib-broadlink@0.1.5",
+  "_inCache": true,
+  "_location": "/node-red-contrib-broadlink",
+  "_nodeVersion": "6.9.5",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/node-red-contrib-broadlink-0.1.5.tgz_1500656989189_0.5474174506962299"
+  },
+  "_npmUser": {
+    "name": "vladimirfilippov",
+    "email": "vladimirsfilippov@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "node-red-contrib-broadlink@0.1.5",
+    "scope": null,
+    "escapedName": "node-red-contrib-broadlink",
+    "name": "node-red-contrib-broadlink",
+    "rawSpec": "0.1.5",
+    "spec": "0.1.5",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/node-red-contrib-broadlink/-/node-red-contrib-broadlink-0.1.5.tgz",
+  "_shasum": "3289015058f917d14b12e8ef99fe350a45ed7d36",
+  "_shrinkwrap": null,
+  "_spec": "node-red-contrib-broadlink@0.1.5",
+  "_where": "/home/njc/.node-red",
+  "author": {
+    "name": "Vladimir Filippov",
+    "email": "VladimirSFilippov@gmail.com",
+    "url": "https://github.com/VladimirSFilippov"
+  },
+  "bugs": {
+    "url": "https://github.com/VladimirSFilippov/node-red-contrib-broadlink/issues"
+  },
+  "dependencies": {
+    "crypto": ">=0.0.3",
+    "dgram": ">=1.0.1",
+    "events": ">=1.1.1",
+    "os": ">=0.1.1"
+  },
+  "description": "Управление устройствами Broadlink",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "3289015058f917d14b12e8ef99fe350a45ed7d36",
+    "tarball": "https://registry.npmjs.org/node-red-contrib-broadlink/-/node-red-contrib-broadlink-0.1.5.tgz"
+  },
+  "engines": {
+    "node": ">=6.9.5"
+  },
+  "homepage": "https://github.com/VladimirSFilippov/node-red-contrib-broadlink#readme",
+  "keywords": [
+    "node-red",
+    "Broadlink",
+    "iot"
+  ],
+  "maintainers": [
+    {
+      "name": "vladimirfilippov",
+      "email": "vladimirsfilippov@gmail.com"
+    }
+  ],
+  "name": "node-red-contrib-broadlink",
+  "node-red": {
+    "nodes": {
+      "rm": "nodes/RMNode.js",
+      "eAir": "nodes/A1Node.js",
+      "smartplug": "nodes/SP2Node.js",
+      "mp": "nodes/MP1Node.js",
+      "s1c": "nodes/S1CNode.js",
+      "discover": "nodes/DiscoverNode.js",
+      "setup": "nodes/SetupNode.js"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladimirSFilippov/node-red-contrib-broadlink.git"
+  },
+  "scripts": {},
+  "version": "0.1.5"
+}
